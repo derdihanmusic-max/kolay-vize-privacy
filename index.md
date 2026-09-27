@@ -12,7 +12,7 @@ Bu kullanıcı verileri Kolay Vize sunucusuna gönderilmez. Uygulamada çevrimi�
 Kullanıcı seyahat hizmetlerini aramak istediğinde Uygulama, seçilen hizmet kategorisi ile hedef ülke/şehir/bölge bilgisini cihazdaki Google Haritalar uygulamasına veya harita web sayfasına aktarabilir. Harita sonuçları üçüncü taraf hizmet tarafından sağlanır ve ilgili hizmetin kendi gizlilik koşullarına tabidir.
 3. İşletme doğrulama ve sponsorlu reklam başvuruları
 İşletmeler sponsorlu listeleme için doğrulama başvurusu gönderebilir. Başvuru; işletme adı, ülke/şehir/bölge, iletişim bilgisi, resmi işletme/vergi kayıt bilgisi, kategoriye göre ruhsat/yetki/lisans bilgisi ve isteğe bağlı Google Haritalar bağlantısını içerebilir.
-Başvuru Uygulama içinden bir sunucuya otomatik yüklenmez. Kullanıcının kendi e-posta uygulaması açılır ve başvuru, kullanıcının onayıyla derdihanmusic@gmail.com adresine gönderilir. Doğrulama için resmi belge kopyalarının e-posta eki olarak gönderilmesi istenebilir. Bu bilgiler yalnızca işletme doğrulaması, başvurunun değerlendirilmesi, listeleme ve ilgili iletişim amacıyla kullanılır.
+Başvuru Uygulama içinden bir sunucuya otomatik yüklenmez. Kullanıcının kendi e-posta uygulaması açılır ve başvuru, kullanıcının onayıyla kolayvize.destek@gmail.com adresine gönderilir. Doğrulama için resmi belge kopyalarının e-posta eki olarak gönderilmesi istenebilir. Bu bilgiler yalnızca işletme doğrulaması, başvurunun değerlendirilmesi, listeleme ve ilgili iletişim amacıyla kullanılır.
 4. Sponsorlu içerik
 "Sponsorlu" ibareli işletme listelemeleri ücretli reklamdır. Sponsorlu statü, işletmenin ürün veya hizmet kalitesine ilişkin garanti değildir. "Kolay Vize Doğrulandı" ifadesi yalnızca Kolay Vize tarafından yapılan belge kontrolünü ifade eder; Google veya başka bir kurum onayı anlamına gelmez.
 5. Veri silme
@@ -20,4 +20,4 @@ Uygulama içindeki Tüm verileri sil seçeneği veya Uygulamanın kaldırılmas�
 6. Çocukların gizliliği
 Uygulama 13 yaş altındaki çocuklardan bilerek kişisel veri toplamayı amaçlamaz.
 7. İletişim
-Gizlilik veya işletme başvuruları hakkında: derdihanmusic@gmail.com
+Gizlilik veya işletme başvuruları hakkında: kolayvize.destek@gmail.com
