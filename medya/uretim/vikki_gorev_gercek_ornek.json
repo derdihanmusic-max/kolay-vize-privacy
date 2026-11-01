@@ -1,0 +1,174 @@
+{
+ "schema_version": "1.0",
+ "project_name": "Fonrunch Gercek Ekran",
+ "platform": "instagram_reels",
+ "fps": 30,
+ "fade_in": 0.2,
+ "fade_out": 0.6,
+ "text_style": {
+  "font": "Poppins-Bold",
+  "size": 64,
+  "color": "#FFFFFF",
+  "outline": 0,
+  "shadow": 3,
+  "background": "#0B1020CC",
+  "position": "top",
+  "align": "center"
+ },
+ "assets": {
+  "fon_g1": {
+   "src": "fon_g1.png",
+   "type": "image"
+  },
+  "fon_g2": {
+   "src": "fon_g2.png",
+   "type": "image"
+  },
+  "fon_g3": {
+   "src": "fon_g3.png",
+   "type": "image"
+  },
+  "fon_g4": {
+   "src": "fon_g4.png",
+   "type": "image"
+  },
+  "fon_g5": {
+   "src": "fon_g5.png",
+   "type": "image"
+  },
+  "fon_g6": {
+   "src": "fon_g6.png",
+   "type": "image"
+  },
+  "fon_gson": {
+   "src": "fon_gson.png",
+   "type": "image"
+  },
+  "muzik": {
+   "src": "sinematik.m4a",
+   "type": "audio"
+  }
+ },
+ "scenes": [
+  {
+   "asset": "fon_g1",
+   "duration": 3.4,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.05
+   },
+   "text": {
+    "content": "Birikimin dağınık mı? Hepsini tek yerde topla."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_g2",
+   "duration": 3.4,
+   "effect": {
+    "type": "pan_up",
+    "intensity": 0.05
+   },
+   "text": {
+    "content": "Piyasayı kaynağı ve tarihiyle oku."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_g3",
+   "duration": 3.4,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.05
+   },
+   "text": {
+    "content": "Gelir, gider ve ödeme planın da burada."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_g4",
+   "duration": 3.4,
+   "effect": {
+    "type": "pan_up",
+    "intensity": 0.05
+   },
+   "text": {
+    "content": "Premium: Portföy Zekâ Laboratuvarı."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_g5",
+   "duration": 3.4,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.05
+   },
+   "text": {
+    "content": "Stres testi, yoğunlaşma sınırı, hedef simülasyonu."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_g6",
+   "duration": 3.4,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.05
+   },
+   "text": {
+    "content": "Web'de de aynı kayıtlar: fonrunch.com"
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_gson",
+   "duration": 4.5,
+   "effect": {
+    "type": "zoom_out",
+    "intensity": 0.04
+   },
+   "fit": "cover"
+  }
+ ],
+ "audio": {
+  "music": {
+   "asset": "muzik",
+   "volume": 0.7,
+   "duck": false,
+   "fade_in": 0.4,
+   "fade_out": 1.5
+  }
+ },
+ "output": {
+  "format": "mp4",
+  "codec": "h264",
+  "quality": "high",
+  "filename": "fonrunch_v2"
+ }
+}

@@ -10,3 +10,5 @@
 - Üçüncü taraf içerik yok: haber başlıkları, başka kanalların yayınları, gerçek kişi fotoğrafları, Google Play arayüzü, resmî kurum logoları.
 - Paylaşım metni eksiksiz: açıklama, Google Play linki (varsa), noyansis.com, uygun uyarılar (Fonrunch: yatırım tavsiyesi değildir), 8-10 hashtag; YouTube başlığı + etiketler + kategori; TikTok başlığı.
 - Video dosyası medya/<urun>-YYYY-MM-DD.mp4 olarak bu depoya gönderilir; Metricool raw.githubusercontent.com adresinden çeker.
+
+- Gerçek ekranlı sahneler için örnek betik: medya/uretim/sahneler_gercek_ornek.py (telefon çerçevesi, marka renkli zemin, simgeli kapanış kartı; 1 Kasım Fonrunch/DİLLİ videoları bununla yapıldı) ve medya/uretim/vikki_gorev_gercek_ornek.json. Yollar klon klasörüne göre düzenlenir. Gerçek ekranlı videolarda Instagram isAiGenerated, TikTok isAigc ve YouTube isAiGeneratedContent false.
