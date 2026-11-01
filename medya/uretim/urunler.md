@@ -29,7 +29,7 @@ Noyansis: İzmir merkezli bağımsız yazılım stüdyosu. Windows için kurumsa
 - Gizlilik: ana ekranda `app_ana_maskeli.png` kullanılır (ülke/tarih satırı bulanık). Kullanıcı onay verirse `app_ana.png`.
 
 ## OpBo (klasör: opbo)
-- Kategori: Ses & müzik. Google Play'de yayında (üretim erişimi Kasım 2026). Play linki henüz bilinmiyor: link yoksa "Google Play'de OpBo" + noyansis.com yaz.
+- Kategori: Ses & müzik. DURUM: 1 Kasım 2026'da Google Play'de herkese açık değil (aramada çıkmıyor, kullanıcı "özel" dedi). Yayına alınana kadar videosu yapılmaz.
 - Tek cümle: Kendi sesiyle özgün ses, vokal ve müzik üretmek isteyen içerik üreticileri için yaratıcı mobil ses stüdyosu.
 - Özellikler: uçak modunda internetsiz metinden sese (TTS); üretilen sesi doğrudan videoya senkronize ekleme; ses ve video cihazda işlenir, internet gerektirmez; hafif, pratik arayüz.
 - Ekran: yok (yalnız simge). Gelene kadar temsili çizim + "temsili" notu.
@@ -41,7 +41,7 @@ Noyansis: İzmir merkezli bağımsız yazılım stüdyosu. Windows için kurumsa
 - Ekran: yalnız site kartı (`web_kart.png`). Kullanıcının bilgisayarı yok; Windows arayüzü temsili çizilir + "temsili" notu. Google Play'e yönlendirilmez.
 
 ## Vadem (klasör: vadem)
-- Kategori: Finans & vade. Paket com.noyansis.vadem — 1 Kasım 2026'da Google Play sayfası açılmıyordu (404): kullanıcı yayında olduğunu teyit edene kadar "Google Play'de" yazılmaz, yalnız noyansis.com.
+- Kategori: Finans & vade. DURUM: paket com.noyansis.vadem, 1 Kasım 2026'da Google Play sayfası açılmıyor (404). Yayına alınana kadar videosu yapılmaz.
 - Tek cümle: Çek, senet, kredi kartı ve kredi taksitlerini tek ekranda toplayan, şirket ve şahıs nakit akışını yöneten akıllı vade ve hatırlatma asistanı.
 - Özellikler: alınan ve verilen çekler için ibraz süresi takibi; senetler için vade ve protesto süresi hatırlatıcısı; kredi kartı hesap kesim ve kredi taksit planları; firma bazlı tahsilat ve ödeme nakit akış takvimi.
 - Ekran: yalnız site kartı ve simge. Gelene kadar temsili çizim + "temsili" notu.
