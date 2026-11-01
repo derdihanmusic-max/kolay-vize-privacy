@@ -1,0 +1,154 @@
+{
+ "schema_version": "1.0",
+ "project_name": "Fonrunch Günlük 1",
+ "platform": "instagram_reels",
+ "fps": 30,
+ "fade_in": 0.3,
+ "fade_out": 0.6,
+ "text_style": {
+  "font": "Poppins-Bold",
+  "size": 64,
+  "color": "#FFFFFF",
+  "outline": 0,
+  "shadow": 3,
+  "background": "#0B1020CC",
+  "position": "top",
+  "align": "center"
+ },
+ "assets": {
+  "fon_1": {
+   "src": "fon_1.png",
+   "type": "image"
+  },
+  "fon_2": {
+   "src": "fon_2.png",
+   "type": "image"
+  },
+  "fon_3": {
+   "src": "fon_3.png",
+   "type": "image"
+  },
+  "fon_4": {
+   "src": "fon_4.png",
+   "type": "image"
+  },
+  "fon_5": {
+   "src": "fon_5.png",
+   "type": "image"
+  },
+  "fon_son": {
+   "src": "fon_son.png",
+   "type": "image"
+  },
+  "muzik": {
+   "src": "kurumsal.m4a",
+   "type": "audio"
+  }
+ },
+ "scenes": [
+  {
+   "asset": "fon_1",
+   "duration": 3.6,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.06
+   },
+   "text": {
+    "content": "Birikimin bankalara, cüzdanlara dağılmış mı?"
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.5
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_2",
+   "duration": 3.6,
+   "effect": {
+    "type": "pan_up",
+    "intensity": 0.06
+   },
+   "text": {
+    "content": "Hisse, fon, döviz, altın, kripto: hepsi tek portföyde."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.5
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_3",
+   "duration": 3.6,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.06
+   },
+   "text": {
+    "content": "Riskini ve yoğunlaşmayı tek bakışta gör."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.5
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_4",
+   "duration": 3.6,
+   "effect": {
+    "type": "pan_down",
+    "intensity": 0.06
+   },
+   "text": {
+    "content": "Piyasa radarı: BIST 100, kur, altın, Brent tek yerde."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.5
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_5",
+   "duration": 3.6,
+   "effect": {
+    "type": "zoom_in",
+    "intensity": 0.06
+   },
+   "text": {
+    "content": "Koç, rakamların ne anlama geldiğini söyler."
+   },
+   "transition": {
+    "type": "crossfade",
+    "duration": 0.5
+   },
+   "fit": "cover"
+  },
+  {
+   "asset": "fon_son",
+   "duration": 4.5,
+   "effect": {
+    "type": "zoom_out",
+    "intensity": 0.05
+   },
+   "fit": "cover"
+  }
+ ],
+ "audio": {
+  "music": {
+   "asset": "muzik",
+   "volume": 0.7,
+   "duck": false,
+   "fade_in": 0.5,
+   "fade_out": 1.5
+  }
+ },
+ "output": {
+  "format": "mp4",
+  "codec": "h264",
+  "quality": "high",
+  "filename": "fonrunch_gun1"
+ }
+}
