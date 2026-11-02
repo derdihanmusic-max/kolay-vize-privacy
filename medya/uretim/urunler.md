@@ -47,6 +47,9 @@ Noyansis: İzmir merkezli bağımsız yazılım stüdyosu. Windows için kurumsa
 - Ekran: yalnız site kartı ve simge. Gelene kadar temsili çizim + "temsili" notu.
 
 ## Golrunch (klasör: golrunch)
-- Kategori: Futbol maç uygulaması. Google Play'de yayında: https://play.google.com/store/apps/details?id=com.macmercegi.mobile
-- Bilgi az: ayrıntılı özellik yazılmaz; yalnız "futbol maçlarını takip" düzeyinde kal. Bahis/iddaa çağrışımı yapılmaz.
-- Ekran: yok. Gelene kadar temsili çizim + "temsili" notu.
+- Kategori: Futbol ve basketbol maç analizi ("Golrunch · Odds Insight"). Google Play'de yayında: https://play.google.com/store/apps/details?id=com.macmercegi.mobile
+- Kullanıcının 2 Kasım 2026 tanımı: analiz uygulaması; maç istatistikleri, takım form durumu, maç öncesi analiz, lig ve puan durumu.
+- Ekranlardan (2 Kasım 2026): Futbol ve Basketbol (NBA, EuroLeague) bölümleri; "Maç ekle, tercihini seç ve analiz et"; takımların son durumu / form; iç saha–deplasman geçmişi; veri kaynakları; Premium ile günlük analiz hakkı artar; "Reklamsız".
+- DİKKAT: Uygulama oran (bahis oranı) karşılaştırması içerir. Tanıtımda ORAN, "tercih/kupon", kazanç, bahis/iddaa çağrışımı YOK; Meta/TikTok/YouTube kumar-bahis reklam kısıtları ve Türkiye mevzuatı nedeniyle yalnız "maç analizi, istatistik, form, puan durumu" düzeyinde anlatılır. Uygulamanın kendi uyarısı: "Sonuç veya kazanç garantisi verilmez."
+- Renkler: koyu yeşil-siyah zemin #0B1411, lime vurgu #BCEE8B, basketbol turuncu. Simge: futbol + basketbol topu, lime kare (ekranlar/golrunch/simge.png, düşük çözünürlük).
+- Ekran: kullanılabilir gerçek ekran yok (ref_*.jpg oran ve gerçek takım adı içerdiği için videoda kullanılmaz). Temsili çizim + "temsili" notu.
