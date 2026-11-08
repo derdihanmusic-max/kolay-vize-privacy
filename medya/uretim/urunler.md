@@ -29,9 +29,10 @@ Noyansis: İzmir merkezli bağımsız yazılım stüdyosu. Windows için kurumsa
 - Gizlilik: ana ekranda `app_ana_maskeli.png` kullanılır (ülke/tarih satırı bulanık). Kullanıcı onay verirse `app_ana.png`.
 
 ## OpBo (klasör: opbo)
-- Kategori: Ses & müzik. DURUM: 1 Kasım 2026'da Google Play'de herkese açık değil (aramada çıkmıyor, kullanıcı "özel" dedi). Yayına alınana kadar videosu yapılmaz.
+- Kategori: Video oynatıcı ve düzenleyici. Google Play: https://play.google.com/store/apps/details?id=com.derdihan.opbo (Play'deki adı: "OpBo: Metinden Sese-Video Ekle"). DURUM: 8 Kasım 2026'da kullanıcı Play linkini paylaştı; Play'de "OpBo artık herkese açık!" yazıyor. Yapay zekâ ile ses klonlama ve ücretli abonelik henüz aktif değil; videoda bunlar vaat edilmez.
 - Tek cümle: Kendi sesiyle özgün ses, vokal ve müzik üretmek isteyen içerik üreticileri için yaratıcı mobil ses stüdyosu.
 - Özellikler: uçak modunda internetsiz metinden sese (TTS); üretilen sesi doğrudan videoya senkronize ekleme; ses ve video cihazda işlenir, internet gerektirmez; hafif, pratik arayüz.
+- Play açıklamasına göre (8 Kasım 2026): metinden ses (MP3), mikrofonla ses kaydı (M4A), sesi seçilen videoya ekleme, videoya yazı ekleme, MP4 olarak kaydetme; yeniliklerde konuşmayı yazıya çevirme ve 0.5x–2x konuşma hızı.
 - Ekran: yok (yalnız simge). Gelene kadar temsili çizim + "temsili" notu.
 
 ## PİGES ONE (klasör: piges-one)
